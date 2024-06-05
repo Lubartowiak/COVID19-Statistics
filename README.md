@@ -1,0 +1,1 @@
+Web application supporting Covid statistics compared to the number of births in a given year. Frontend written in React, server in Java.

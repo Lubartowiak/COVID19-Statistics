@@ -1,0 +1,66 @@
+
+.header {
+  background-color: #007bff;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.header__nav {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.header__nav-item {
+  margin: 0 15px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.header__nav-item:hover {
+  text-decoration: underline;
+}
+
+.header__nav-item form {
+  display: inline-block;
+}
+
+.header__nav-item input[type="file"] {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  margin-left: 20px;
+  
+}
+
+.header__nav-item button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+}
+
+.header__nav-item button:hover {
+  text-decoration: underline;
+}
+.wyloguj{
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
+  margin-left: 450px;
+}

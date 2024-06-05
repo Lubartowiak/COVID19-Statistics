@@ -1,0 +1,109 @@
+[
+  {
+    "country_population": 331198130,
+    "continent_name": "North America",
+    "total_cases": 5032179,
+    "total_deaths": 162804,
+    "total_recovered": 2576668,
+    "active_cases": 2292707,
+    "country_name": "Testkkkkkk",
+    "birth_stats": [
+      {
+        "year": "2000",
+        "births": 4075
+      },
+      {
+        "year": "2001",
+        "births": 4048
+      },
+      {
+        "year": "2002",
+        "births": 4044
+      },
+      {
+        "year": "2003",
+        "births": 4103
+      },
+      {
+        "year": "2004",
+        "births": 4128
+      },
+      {
+        "year": "2005",
+        "births": 4166
+      },
+      {
+        "year": "2006",
+        "births": 4277
+      },
+      {
+        "year": "2007",
+        "births": 4324
+      },
+      {
+        "year": "2008",
+        "births": 4264
+      },
+      {
+        "year": "2009",
+        "births": 4151
+      },
+      {
+        "year": "2010",
+        "births": 4037
+      },
+      {
+        "year": "2011",
+        "births": 3986
+      },
+      {
+        "year": "2012",
+        "births": 3983
+      },
+      {
+        "year": "2013",
+        "births": 3966
+      },
+      {
+        "year": "2014",
+        "births": 4004
+      },
+      {
+        "year": "2015",
+        "births": 3996
+      },
+      {
+        "year": "2016",
+        "births": 3957
+      },
+      {
+        "year": "2017",
+        "births": 3870
+      },
+      {
+        "year": "2018",
+        "births": 3802
+      },
+      {
+        "year": "2019",
+        "births": 3757
+      },
+      {
+        "year": "2020",
+        "births": 3670
+      },
+      {
+        "year": "2021",
+        "births": 3723
+      },
+      {
+        "year": "2022",
+        "births": 3727
+      },
+      {
+        "year": "2023",
+        "births": 3745
+      }
+    ]
+  }
+]
